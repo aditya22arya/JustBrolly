@@ -139,15 +139,7 @@ templates/index.html   # Simple Bootstrap form and highest bid display
 
 ---
 
-## Extending the Project (nice resume wins)
-- Add `.env` config and structured logging.
-- Dockerize services and use docker-compose for local Kafka/MySQL/Schema Registry.
-- Real-time leaderboard with WebSockets/SSE.
-- Retry with backoff and dead-letter topic for poison messages.
-- Batch inserts and connection pooling for higher throughput.
-- CI tests with testcontainers for Kafka/MySQL.
 
----
 
 ## License
 MIT (adjust as needed).
